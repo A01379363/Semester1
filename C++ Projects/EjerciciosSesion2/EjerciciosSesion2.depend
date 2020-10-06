@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1573149431 source:d:\users\enriq\desktop\tec\semestre 1\pensamiento computacional objetos\c++ projects\ejerciciossesion2\ejercicios.cpp
+	<iostream>
+
+1573150726 source:d:\users\enriq\desktop\tec\semestre 1\pensamiento computacional objetos\c++ projects\ejerciciossesion2\ejercicio2.cpp
+	<math.h>
+	<iostream>
+
+1573256549 source:d:\users\enriq\desktop\tec\semestre 1\pensamiento computacional objetos\c++ projects\ejerciciossesion2\bmi.cpp
+	<math.h>
+	<iostream>
+
+1573497053 source:d:\users\enriq\desktop\tec\semestre 1\pensamiento computacional objetos\c++ projects\ejerciciossesion2\adivina.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1573521293 source:d:\users\enriq\desktop\tec\semestre 1\pensamiento computacional objetos\c++ projects\ejerciciossesion2\cuadrado.cpp
+	<iostream>
+

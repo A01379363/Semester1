@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1573755762 source:d:\users\enriq\desktop\tec\semestre 1\pensamiento computacional objetos\c++ projects\vectorclass\main.cpp
+	<iostream>
+	"Vector3D.hpp"
+
+1573755762 d:\users\enriq\desktop\tec\semestre 1\pensamiento computacional objetos\c++ projects\vectorclass\vector3d.hpp
+	<cmath>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1575565487 source:d:\users\enriq\desktop\tec\semestre 1\pensamiento computacional objetos\c++ projects\examenfinal\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"animalShelter.hpp"
+
+1575571625 d:\users\enriq\desktop\tec\semestre 1\pensamiento computacional objetos\c++ projects\examenfinal\animalshelter.hpp
+	<iostream>
+	"animal.hpp"
+
+1575569259 d:\users\enriq\desktop\tec\semestre 1\pensamiento computacional objetos\c++ projects\examenfinal\animal.hpp
+	<iostream>
+

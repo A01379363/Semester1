@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1575335266 source:d:\users\enriq\desktop\tec\semestre 1\pensamiento computacional objetos\c++ projects\proyectofinal\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"aeropuerto.hpp"
+
+1575334721 d:\users\enriq\desktop\tec\semestre 1\pensamiento computacional objetos\c++ projects\proyectofinal\vuelo.hpp
+	<string>
+	<cstdlib>
+	<ctime>
+
+1574877115 d:\users\enriq\desktop\tec\semestre 1\pensamiento computacional objetos\c++ projects\proyectofinal\date.hpp
+	<iostream>
+	<string>
+
+1575334721 d:\users\enriq\desktop\tec\semestre 1\pensamiento computacional objetos\c++ projects\proyectofinal\aeropuerto.hpp
+	<string>
+	<cstdlib>
+	<ctime>
+	"aerolinea.hpp"
+
+1575336577 d:\users\enriq\desktop\tec\semestre 1\pensamiento computacional objetos\c++ projects\proyectofinal\aerolinea.hpp
+	<string>
+	<cstdlib>
+	<ctime>
+	"vuelo.hpp"
+
